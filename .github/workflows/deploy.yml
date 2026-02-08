@@ -6,4 +6,4 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "GitHub Actions está funcionando"
+      - run: echo "GitHub Actions está funcionando 2026"
