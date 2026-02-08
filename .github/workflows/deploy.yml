@@ -5,8 +5,8 @@ on:
   push:
     branches:
       - main
-    paths:
-      - 'index.html'
+   # paths:
+   #   - 'index.html'
 
 # Permisos necesarios para GitHub Pages
 permissions:
