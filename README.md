@@ -9,5 +9,5 @@ Cada cambio enviado a la rama `main` que modifique el archivo `index.html` activ
 ## URL del sitio
 Después del despliegue estará disponible en:
 
-https://Marcosantgr.github.io/gh-deployment-workflow/
+https://marcosantgr.github.io/gh-deployment-workflow/
 
