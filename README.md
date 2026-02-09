@@ -3,7 +3,7 @@
 
 Este proyecto demuestra cómo desplegar automáticamente un sitio web estático usando GitHub Actions y GitHub Pages.
 
-## Funcionamiento
+## Funcionamiento ##
 Cada cambio enviado a la rama `main` que modifique el archivo `index.html` activa un workflow de GitHub Actions que publica el sitio en GitHub Pages.
 
 ## URL del sitio
