@@ -11,6 +11,6 @@ Después del despliegue estará disponible en:
 
 https://marcosantgr.github.io/gh-deployment-workflow/
 
-This repository is a solution for the roadmap.sh project:
+Este repositorio es una solucion al proyecto en roadmap.sh:
 
 https://roadmap.sh/projects/github-actions-deployment-workflow
