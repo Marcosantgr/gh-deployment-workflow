@@ -1,16 +1,16 @@
 # gh-deployment-workflow
 # GitHub Pages Deployment with GitHub Actions
 
-Este proyecto demuestra cómo desplegar automáticamente un sitio web estático usando GitHub Actions y GitHub Pages.
+This project demonstrates how to automatically deploy a static website using GitHub Actions and GitHub Pages.
 
-## Funcionamiento ##
-Cada cambio enviado a la rama `main` que modifique el archivo `index.html` activa un workflow de GitHub Actions que publica el sitio en GitHub Pages.
+##How it work ##
+Each change pushed to the `main` branch that modifies the `index.html` file triggers a GitHub Actions workflow that publishes the site to GitHub Pages.
 
-## URL del sitio
-Después del despliegue estará disponible en:
+## Site URL
+After deployment, it will be available at:
 
 https://marcosantgr.github.io/gh-deployment-workflow/
 
-Este repositorio es una solucion al proyecto en roadmap.sh:
+This repository is a solution to the project in roadmap.sh:
 
 https://roadmap.sh/projects/github-actions-deployment-workflow
